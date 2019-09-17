@@ -36,8 +36,8 @@ public class Pessoa {
         return endereco;
     }
 
-    public void setEndereco(String e) {
-        this.endereco = e;
+    public void setEndereco(String end) {
+        this.endereco = end;
     }
 
     public String getHorario() {
