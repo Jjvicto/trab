@@ -2,7 +2,8 @@
 package qacademico;
 
 
-public class Professor {
+public class Professor extends Pessoa{
+    
         private String curso;
         private double sal;
 
